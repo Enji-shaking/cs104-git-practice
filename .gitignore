@@ -33,4 +33,4 @@
 
 .idea/*
 helloworld
-cat .gitignore
+helloworld.dSYM/
